@@ -1,4 +1,4 @@
 # April Cookoff
 
-My Attempts.
-Corrected filed wil be at Main.
+My Attempts.  
+Corrected files will be at Main.
