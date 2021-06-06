@@ -6,5 +6,3 @@ for _ in range(int(input())):
         if N%i > rem:
             rem = N%i
     print(rem)
-
-    
